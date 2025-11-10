@@ -1,6 +1,3 @@
-Com certeza! Aqui está o material formatado em Markdown, pronto para ser copiado e colado no seu arquivo `README.md` no repositório do GitHub.
-
-```markdown
 # 🔒 Guia Prático de Versionamento Seguro com Git e GitHub
 
 ## Um Workshop de DevSecOps para Futuros Desenvolvedores de Sistemas
