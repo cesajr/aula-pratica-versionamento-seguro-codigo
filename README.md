@@ -8,8 +8,6 @@ Bem-vindos a este workshop prático focado em um dos pilares da engenharia de so
 
 Nosso objetivo é estabelecer um mindset de **DevSecOps** (Desenvolvimento, Segurança e Operações) desde o início de sua carreira. Vamos aprender a usar o Git e o GitHub não apenas para salvar nosso código, mas para protegê-lo ativamente contra o vazamento de informações sensíveis usando ferramentas automatizadas.
 
-```
-
 ### 📝 Conteúdo
 
 1.  [Visão Geral e Objetivos](#1-visão-geral-e-objetivos)
@@ -36,7 +34,7 @@ Nosso objetivo é estabelecer um mindset de **DevSecOps** (Desenvolvimento, Segu
 11. [Sobre o Autor](#11-sobre-o-autor)
 
 ---
-
+```
 ### 1. Visão Geral e Objetivos
 
 Nesta aula, simularemos um ciclo de desenvolvimento completo, desde a configuração inicial até a entrega de uma nova funcionalidade, com foco total em segurança.
