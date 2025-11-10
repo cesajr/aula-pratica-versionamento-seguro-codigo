@@ -1,4 +1,4 @@
-```markdown
+```
 # 🔒 Versionamento Seguro de Código com Git e GitHub
 
 ## Uma Aula Prática para Desenvolvedores Iniciantes
@@ -7,7 +7,7 @@ Olá, futuros desenvolvedores e desenvolvedoras de sistemas!
 
 Este repositório contém o material didático e um exemplo prático para nossa aula sobre Versionamento Seguro de Código, utilizando as ferramentas Git e GitHub. Meu objetivo é guiá-los através das melhores práticas para gerenciar o código de seus projetos de forma segura, evitando vazamentos de informações sensíveis e garantindo um fluxo de trabalho robusto.
 
----
+```
 
 ### 📝 Conteúdo
 
@@ -363,11 +363,7 @@ Boas codificações e sucesso em sua jornada!
 
 Este material foi criado por:
 
-**[Seu Nome Completo]**
-*   **Título:** Docente Especialista Sênior em Desenvolvimento Seguro de Código e Versionamento.
-*   **Instituição:** [Nome da sua Instituição de Ensino, se aplicável]
-*   **LinkedIn (Opcional):** [Link para o seu perfil no LinkedIn]
-*   **GitHub (Opcional):** [Link para o seu perfil no GitHub]
+**Professor Paulo César Junior**
 
 ---
 ``````
