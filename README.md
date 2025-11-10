@@ -34,7 +34,7 @@ Nosso objetivo é estabelecer um mindset de **DevSecOps** (Desenvolvimento, Segu
 11. [Sobre o Autor](#11-sobre-o-autor)
 
 ---
-```
+
 ### 1. Visão Geral e Objetivos
 
 Nesta aula, simularemos um ciclo de desenvolvimento completo, desde a configuração inicial até a entrega de uma nova funcionalidade, com foco total em segurança.
