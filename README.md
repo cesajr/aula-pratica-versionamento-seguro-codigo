@@ -1,7 +1,3 @@
-Ótima ideia! Transformar a aula em um material didático para o GitHub facilita o acesso e a prática dos estudantes. Abaixo está a estrutura e o conteúdo sugeridos para o seu `README.md` no repositório.
-
----
-
 ```markdown
 # 🔒 Versionamento Seguro de Código com Git e GitHub
 
